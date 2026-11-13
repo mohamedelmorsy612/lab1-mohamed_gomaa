@@ -1,6 +1,2 @@
 this the first line of file1
 this the second line of file1
-this the third line of file1
-this the fourth line of file1 in b1
-
-new line to revert
